@@ -14,26 +14,10 @@ Here are some ideas to get you started:
 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-
-
 <h1 align="center">
   Hello, I'm Abdulaziz Almutairi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
----
-
-### :woman_technologist: About Me :
-
-- <p><em>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saudi Arabia.
-
-
-- <p><em>I am currently Study C# Full Stack with <a href="https://sda.edu.sa/" target="_blank">saudi digital academy</a> and <a href="https://www.integrify.io/" target="_blank" rel="noreferrer">Integrify Academy </a></p></em>
 
 ---
 
