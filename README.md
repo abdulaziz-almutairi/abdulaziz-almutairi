@@ -1,6 +1,5 @@
 <h1 align="center">
   Hi there, I'm Abdulaziz Almutairi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"/>
 </h1>
 
 <p align="center">
@@ -15,12 +14,12 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 Full Stack Developer
-- 🌱 Currently learning and improving my backend & frontend skills
-- ⚡ Interested in scalable web apps, clean UI, and performance optimization
-- 🛠️ Love working with modern JavaScript ecosystems and APIs
+-  Full Stack Developer
+-  Currently learning and improving my backend & frontend skills
+-  Interested in scalable web apps, clean UI, and performance optimization
+-  Love working with modern JavaScript ecosystems and APIs
 
 ---
 
